@@ -1,0 +1,108 @@
+div.head{
+	background-color: red;
+	width: 100%;
+	height: 50px;
+	position: fixed;
+	margin-top: -100px;
+}
+.official{
+	color: white;
+	font-size: verdana;
+	font-size: 20px;
+	margin-left: 90px;
+	font-style: bold;
+
+}
+.po{
+	margin-left: 610px;
+	position: absolute;
+	margin-top:-44.5px;
+	background-color: yellow;
+}
+.po1{
+position: absolute;
+	margin-top:-44.5px;
+	margin-left: 675px;
+	background-color: yellow;
+}
+.po2{
+position: absolute;
+	margin-top:-44.5px;
+	margin-left: 750px;
+	background-color: yellow;
+}
+.po3{
+	position: absolute;
+	margin-top:-44.5px;
+	margin-left: 825px;
+	background-color: yellow;
+}
+.po4{
+	position: absolute;
+	margin-top:-44.5px;
+	margin-left: 895px;
+	background-color: yellow;
+}
+.headImg{
+	position: absolute;
+	width: 70px;
+	height: 40px;
+	margin-top: -60px;
+	margin-left: 10px;
+}
+#VideoContainer{
+	background-color: white;
+	width: 900px;
+	height: 1050px;
+	margin-left: 50px;
+	margin-top: 100px;
+}
+.vid{
+
+	box-shadow: 0px 5px 5px 0px;
+	background-color: rgb(77, 77, 77);
+	border-radius: 5px;
+}
+#btn{
+	position: absolute;
+	width: 200px;
+	height: 30px;
+	background-color: rgb(244, 23, 29);
+	margin-top: 5px;
+	margin-left: 400px;
+	box-shadow: 0px 2px 5px 0px;
+	border-radius: 5px;
+}
+#acc{
+	font-family: Berlin Sans FB Demi;
+	font-size: 15px;
+	margin-top: 5px;
+	margin-left: 14px;
+	color: yellow;
+
+}
+#break{
+	
+	margin-top: -55px;
+	width: 900px;
+	height: 5px;
+	background-color: rgb(93, 93, 93);
+	box-shadow: 0px 2px 5px 0px;
+	margin-left: 50px;
+}
+#footer{
+	background-color: rgb(255, 202, 17);
+	width: 900px;
+	height: 40px;
+	position: absolute;
+	margin-left: 50px;
+	margin-top: -17.5px;
+}#btn:hover{
+	background-color: rgb(255, 222, 108);
+
+}
+#acc:hover{
+	color: red;
+	
+}
+
